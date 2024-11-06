@@ -1,1 +1,2 @@
 Este es vulpix
+Si lo ataca un enemigo más fuerte que él, finge estar herido para confundirlo y huir en cuanto baja la guardia.
