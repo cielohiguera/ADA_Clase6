@@ -1,7 +1,4 @@
 Este es charmander
 La llama de su cola indica su fuerza vital. Si está débil, la llama arderá más tenue.
-<<<<<<< HEAD
 Is red and yellow
-=======
 Es naranja...
->>>>>>> 42c5c68927afff2e1d650a7e507d241a7a1b7a19
